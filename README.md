@@ -80,7 +80,9 @@ const eduardaFranca = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=eduardafr&show_icons=true&theme=radical&count-private=true" alt="eduardafr" /></p>
+<p align="center"><img src="https://github-readme-stats-eduardafr.vercel.app/api/top-langs/?username=eduardafr&count_private=true&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321&show_icons=true" alt="eduardafa" /></p>
+
+<p align="center"><img src="https://github-readme-stats-eduardafr.vercel.app/api?username=eduardafr&count_private=true&theme=radical" alt="eduardafa" /></p>
 
 <p align="center">
 <img src="https://wakatime.com/share/@4ad3554f-f342-4364-918e-3a86e91ec684/ba2672c7-809e-4af4-bbd3-a9d622388eb1.svg" width="500px">
