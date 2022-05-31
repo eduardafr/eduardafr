@@ -84,15 +84,15 @@ const eduardaFranca = {
 
 <p align="center"><img src="https://github-readme-stats-eduardafr.vercel.app/api?username=eduardafr&count_private=true&theme=radical" alt="eduardafa" /></p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://wakatime.com/share/@4ad3554f-f342-4364-918e-3a86e91ec684/ba2672c7-809e-4af4-bbd3-a9d622388eb1.svg" width="500px">
-</p>
+</p> -->
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardafr&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321&theme=radical" alt="eduardafr" /></p>
 
-<details>
+<!-- <details>
   <summary align="center">⚡ More stats ⚡</summary>
     <br>
     <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardafr&theme=radical" /></p>
     <img src="https://activity-graph.herokuapp.com/graph?username=eduardafr&theme=react-dark&bg_color=141321&hide_border=true" width="100%"/>
-</details>
+</details> -->
