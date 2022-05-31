@@ -11,7 +11,7 @@
 
 I am a Civil Engineer, Specialist in Concrete Structures, a Master's student in Simulation and Management of Oil Reservoirs at the Federal University of Pernambuco (UFPE) and I am in a career change to Full Stack Development.
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=eduardafa&label=Profile%20views&color=0e75b6&style=flat" alt="eduardafa" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=eduardafr&label=Profile%20views&color=0e75b6&style=flat" alt="eduardafr" /> </p>
 
 <!-- - 🌱 I’m currently learning **JavaScript / Node.js / MySQL / MongoDB**
  -->
@@ -43,9 +43,9 @@ const eduardaFranca = {
   <br>
 <p align="center">
 <a href="https://linkedin.com/in/eduardandrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardandrade" height="30" width="40" /></a>
-<a href="https://dev.to/eduardafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eduardafa" height="30" width="40" /></a>
-<a href="mailto:eduarda@asklisa.com.br" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="eduardafa" height="35" width="35" /></a>
-<a href="https://api.whatsapp.com/send?phone=+5586999691842&text=Oi! Podemos conversar?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="eduardafa" height="30" width="40" /></a>
+<a href="https://dev.to/eduardafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eduardafr" height="30" width="40" /></a>
+<a href="mailto:eduarda@asklisa.com.br" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="eduardafr" height="35" width="35" /></a>
+<a href="https://api.whatsapp.com/send?phone=+5586999691842&text=Oi! Podemos conversar?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="eduardafr" height="30" width="40" /></a>
 </p><br>
 </div>
 
@@ -80,13 +80,13 @@ const eduardaFranca = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=eduardafr&show_icons=true&theme=radical" alt="eduardafa" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=eduardafr&show_icons=true&theme=radical" alt="eduardafr" /></p>
 
 <p align="center">
 <img src="https://wakatime.com/share/@4ad3554f-f342-4364-918e-3a86e91ec684/ba2672c7-809e-4af4-bbd3-a9d622388eb1.svg" width="500px">
 </p>
 
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardafa&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" alt="eduardafa" /></p> -->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardafr&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" alt="eduardafr" /></p>
 
 <details>
   <summary align="center">⚡ More stats ⚡</summary>
