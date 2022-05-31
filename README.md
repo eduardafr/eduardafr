@@ -7,7 +7,7 @@
   <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="5%"/>
 </h1>
 
-<h3 align="center">Full Stack Developer at @askLisa</h3><img width="10%" align="center" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" />
+<h3 align="center">Full Stack Developer at @askLisa</h3><img width="10%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" />
 
 I am a Civil Engineer, Specialist in Concrete Structures, a Master's student in Simulation and Management of Oil Reservoirs at the Federal University of Pernambuco (UFPE) and I am in a career change to Full Stack Development.
 
