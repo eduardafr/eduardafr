@@ -20,16 +20,14 @@ I am a Civil Engineer, Specialist in Concrete Structures, a Master's student in 
 
 ```javascript
 const eduardaFranca = {
-    programmingLanguages: ['Javascript', 'MATLAB'],
-    currentLearning: ['Typescript', 'Golang', 'React.JS', 'Next.JS'],
+    programmingLanguages: ['Golang', 'Javascript', 'MATLAB'],
+    currentLearning: ['Typescript', 'React.JS', 'Next.JS'],
     tools: ['Node.JS', 'Express'],
     otherLanguages: ['HTML', 'CSS', 'Bash', 'Json', 'Markdown'],
     databases: ['MySQL', 'PostgreSQL', 'MongoDB'],
-    editors: ['Vscode', 'WebStorm'],
+    editors: ['GoLand', 'Vscode', 'WebStorm'],
     platforms: ['GNU/Linux', 'Windows'],
     interests: ['Elixir'],
-    inProgress:
-        'Im participating in two IT programs: Desenvolve promoted by Boticário Group and Luiza <code> promoted by Luizalabs',
 };
 ```
 
@@ -57,9 +55,9 @@ const eduardaFranca = {
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="linux" width="45" height="45"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="javascript" width="40" height="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="typescript" width="40" height="40"/>
-  <img align="center" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" alt="typescript" width="40" height="40"/> 
+  <!-- -<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>-->
+  <!-- -<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="typescript" width="40" height="40"/>-->
+  <!-- -<img align="center" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" alt="typescript" width="40" height="40"/>-->
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
